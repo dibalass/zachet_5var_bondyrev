@@ -1,0 +1,10 @@
+C:\Users\305-12\Desktop\Бондырев\Диф.Зачет 5 вариант Бондырев\bin\Debug\Диф.Зачет 5 вариант Бондырев.exe.config
+C:\Users\305-12\Desktop\Бондырев\Диф.Зачет 5 вариант Бондырев\bin\Debug\Диф.Зачет 5 вариант Бондырев.exe
+C:\Users\305-12\Desktop\Бондырев\Диф.Зачет 5 вариант Бондырев\bin\Debug\Диф.Зачет 5 вариант Бондырев.pdb
+C:\Users\305-12\Desktop\Бондырев\Диф.Зачет 5 вариант Бондырев\obj\Debug\Диф.Зачет 5 вариант Бондырев.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Бондырев\Диф.Зачет 5 вариант Бондырев\obj\Debug\Диф.Зачет_5_вариант_Бондырев.Form1.resources
+C:\Users\305-12\Desktop\Бондырев\Диф.Зачет 5 вариант Бондырев\obj\Debug\Диф.Зачет_5_вариант_Бондырев.Properties.Resources.resources
+C:\Users\305-12\Desktop\Бондырев\Диф.Зачет 5 вариант Бондырев\obj\Debug\Диф.Зачет 5 вариант Бондырев.csproj.GenerateResource.cache
+C:\Users\305-12\Desktop\Бондырев\Диф.Зачет 5 вариант Бондырев\obj\Debug\Диф.Зачет 5 вариант Бондырев.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Бондырев\Диф.Зачет 5 вариант Бондырев\obj\Debug\Диф.Зачет 5 вариант Бондырев.exe
+C:\Users\305-12\Desktop\Бондырев\Диф.Зачет 5 вариант Бондырев\obj\Debug\Диф.Зачет 5 вариант Бондырев.pdb
